@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://laibooroh.opieworks.com/sitemap.xml
